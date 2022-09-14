@@ -1,3 +1,5 @@
+Implementation of camera roll in a React Native mobile app with image-picker library.
+
 ## create a new project: 
 
 npx create-expo-app name-of-the-app
